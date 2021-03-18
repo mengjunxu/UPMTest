@@ -1,7 +1,7 @@
 {
   "name": "com.xdt.test",
   "displayName": "myTest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2019.4",
   "description": "Provides display and input support for Pico devices.",
   "keywords": [
